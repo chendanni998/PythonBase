@@ -1,8 +1,7 @@
-#print 'hello world'
 age = 3
 if age >= 18:
     print ('adult')
 elif age >= 6:
-    print 'teenager'
+    print ('teenager')
 else:
-    print 'kid'
+    print ('kid')
